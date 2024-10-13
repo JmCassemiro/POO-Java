@@ -14,3 +14,10 @@ Este repositório contém uma coleção de exercícios desenvolvidos durante a d
 
 Cada pasta contém o código-fonte de um exercício específico abordando cada conceito.
 
+## **Tecnologias Utilizadas**
+
+- **Java 8+**: Linguagem principal para a implementação dos conceitos.
+- **JDK (Java Development Kit)**: Ambiente de desenvolvimento para compilar e executar os programas Java.
+- **Visual Studio Code**: IDEs recomendadas para desenvolvimento.
+
+
