@@ -1,0 +1,28 @@
++++ LIVRO +++
+Jm
+200.0
+pao
+20
+NYBooks
+2020
++++ LIVRO +++
+JMX
+300.0
+Paozinho
+300
+DGBooks
+2010
++++ LIVRO +++
+jm
+10.0
+fk
+20
+NYBooks
+2020
++++ LIVRO +++
+kfpoewk
+300.0
+MPPAOKF
+20000
+DGBooks
+2010
